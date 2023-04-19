@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+## My personal page
 
-Hi, nice to meet you.
+Hey, My name is Halit. I'm trying to improve myself on machine learning algorithms and trying to become ML engineer. I'll post updates of my journey and lets see how it goes.
